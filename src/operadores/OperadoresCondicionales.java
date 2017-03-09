@@ -5,7 +5,7 @@ package operadores;
  *
  * @author afv
  */
-public class Operadores {
+public class OperadoresCondicionales {
 
    
     public static void main(String[] args) {
