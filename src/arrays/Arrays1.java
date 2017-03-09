@@ -12,7 +12,7 @@ public class Arrays1 {
 		paginas [0]= 20;
 		paginas [1]= 30;
 		paginas [2]= 40;
-		paginas [3]= 50;
+		paginas [3]= 60;
 		paginas [4]= 60;
 		paginas [5]= 70;
 /*
